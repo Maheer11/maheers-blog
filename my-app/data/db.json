@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Welcome to Maheers Tech Blog",
+      "body": "I am excited to apply for the Front End Developer position at Corriculo. With 7 years of experience in creating visually appealing and user-centric websites, I am confident in my ability to contribute to your team. In my current role at Nalot Multisystems limited, I lead the development and design of the company website, Office application  resulting in a significant increase in both user engagement and social media activities.",
+      "author": "Maheer"
+    },
+    {
+      "id": "2",
+      "title": "To Build with every Possibility",
+      "body": "I am excited to apply for the Front End Developer position at Corriculo. With 7 years of experience in creating visually appealing and user-centric websites, I am confident in my ability to contribute to your team. In my current role at Nalot Multisystems limited, I lead the development and design of the company website, Office application  resulting in a significant increase in both user engagement and social media activities.",
+      "author": "Mahmud"
+    }
+  ]
+}
