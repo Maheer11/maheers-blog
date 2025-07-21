@@ -25,7 +25,7 @@ return (
             <BlogDetails/>
           </Route>
         </Switch>
-      </div>/
+      </div>
     </div>
    </Router>
   );
