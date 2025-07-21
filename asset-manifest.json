@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maheers-blog/static/css/main.dccd4992.chunk.css",
+    "main.js": "/maheers-blog/static/js/main.2b627f35.chunk.js",
+    "main.js.map": "/maheers-blog/static/js/main.2b627f35.chunk.js.map",
+    "runtime-main.js": "/maheers-blog/static/js/runtime-main.cae46ce0.js",
+    "runtime-main.js.map": "/maheers-blog/static/js/runtime-main.cae46ce0.js.map",
+    "static/js/2.0fbd85ac.chunk.js": "/maheers-blog/static/js/2.0fbd85ac.chunk.js",
+    "static/js/2.0fbd85ac.chunk.js.map": "/maheers-blog/static/js/2.0fbd85ac.chunk.js.map",
+    "index.html": "/maheers-blog/index.html",
+    "precache-manifest.fb12f3576f8bba70fd3294c31b9fe886.js": "/maheers-blog/precache-manifest.fb12f3576f8bba70fd3294c31b9fe886.js",
+    "service-worker.js": "/maheers-blog/service-worker.js",
+    "static/css/main.dccd4992.chunk.css.map": "/maheers-blog/static/css/main.dccd4992.chunk.css.map",
+    "static/js/2.0fbd85ac.chunk.js.LICENSE.txt": "/maheers-blog/static/js/2.0fbd85ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae46ce0.js",
+    "static/js/2.0fbd85ac.chunk.js",
+    "static/css/main.dccd4992.chunk.css",
+    "static/js/main.2b627f35.chunk.js"
+  ]
+}
